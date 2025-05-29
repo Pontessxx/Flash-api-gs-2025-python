@@ -8,15 +8,12 @@ Para rodar a api:
 ```cmd
     uvicorn main:app --host 0.0.0.0 --port 8000  --reload
 ```
-
-## Para rodar o app
+Para entrar no docs:
 ```cmd
-    cd /MeuAppTS/
-```
-```cmd
-    npm install
-```
-```cmd
-    npx expo start
+    http://localhost:8000/docs#/
 ```
 
+# TRIO
+Rafael Autieri dos Anjos - rm550885
+Henrique pontes Oliveira - rm98036
+Rafael Carvalho Mattos - rm99874
